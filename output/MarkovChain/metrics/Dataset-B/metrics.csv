@@ -1,0 +1,6 @@
+Stock,MSE,MAE,RMSE,MAPE,Predictions_File
+AAPL,897.4186179781794,27.30537376923149,29.956946072291473,0.22099322832371734,/mnt/External/8TBHDD/Keyur/Stock-Price-Prediction/MarkovChain/predictions/Dataset-B/AAPL_predictions.csv
+TSLA,31455.321960613368,154.7004675601014,177.35648271380825,0.3002054444789861,/mnt/External/8TBHDD/Keyur/Stock-Price-Prediction/MarkovChain/predictions/Dataset-B/TSLA_predictions.csv
+GOOG,65931.13551477034,242.1748078080893,256.77058927137733,0.14210242040327384,/mnt/External/8TBHDD/Keyur/Stock-Price-Prediction/MarkovChain/predictions/Dataset-B/GOOG_predictions.csv
+MSFT,895.2706362273063,28.187946414175908,29.92107344710925,0.12919848264072215,/mnt/External/8TBHDD/Keyur/Stock-Price-Prediction/MarkovChain/predictions/Dataset-B/MSFT_predictions.csv
+AMZN,1593605.7461834352,1100.7495723680147,1262.3809829775776,0.34386645209431016,/mnt/External/8TBHDD/Keyur/Stock-Price-Prediction/MarkovChain/predictions/Dataset-B/AMZN_predictions.csv
