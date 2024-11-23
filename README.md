@@ -1,5 +1,3 @@
-Here is a concise and clear README file for your GitHub repository:
-
 ---
 
 # Stock Price Modeling Using Monte Carlo Simulations
