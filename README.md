@@ -37,35 +37,17 @@ LSTM models achieved the best accuracy but required significant computational re
 - Python 3.8+
 - Libraries: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `tensorflow`, `statsmodels`, `yfinance`
 
-Install dependencies using:
-```bash
-pip install -r requirements.txt
-```
 
 ### **Running the Code**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/prabhas2002/Stock_prediction_using_Monte_Carlo_simulations.git
+   git clone https://github.com/prabhas2002/Stock_prediction_using_Monte_Carlo_simulations/tree/master.git
    ```
-2. Navigate to the directory:
-   ```bash
-   cd Stock_prediction_using_Monte_Carlo_simulations
-   ```
-3. Run simulations:
-   ```bash
-   python run_simulations.py
-   ```
-4. Visualize results:
-   ```bash
-   python visualize_results.py
-   ```
+
 
 ## **Future Work**
 
 Future work will focus on:
 - Incorporating advanced Monte Carlo methods like Stochastic Volatility Models.
-- Experimenting with hybrid models combining simulation and deep learning techniques.
 
 ---
-
-Let me know if you'd like any modifications!
